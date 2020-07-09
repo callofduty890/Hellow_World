@@ -9,6 +9,8 @@ namespace Hellow_World
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hellow world");
+            Console.ReadKey();
         }
     }
 }
